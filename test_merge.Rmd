@@ -1,6 +1,6 @@
 ---
 title: "test_merge"
-author: "other authour"
+author: "Sabina Pedrazzini"
 date: "2024-02-15"
 output: html_document
 ---
